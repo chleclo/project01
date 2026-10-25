@@ -145,4 +145,7 @@ footer {
     main {
         padding: 20px 15px;
     }
+    .table {
+        font-size:8px;
+    }
 }
