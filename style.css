@@ -145,7 +145,12 @@ footer {
     main {
         padding: 20px 15px;
     }
-    .table {
-        font-size:8px;
+    
+    table {
+        font-size: 12px;
+    }
+
+    th, td {
+        padding: 5px;
     }
 }
